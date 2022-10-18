@@ -1,0 +1,9 @@
+.chardriver*
+.Module*
+.module*
+*.mod*
+*.o
+*.ko
+*.symvers
+*.order
+.env
